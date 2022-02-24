@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The necessity of receiving the Holy Sacrament (that great test both of the Christian and Protestant religion) declared in a sermon, at a conference of the several ministers of the Deanery of Braughin, in the county of Hertford, appointed by the Right Reverend Father in God, Henry Lord Bishop of London, to be held at Ware, August 28, 1678 / by Robert Neville ...</title>
+            <author>Neville, Robert, 1640 or 1-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52862</idno>
+            <idno type="STC">Wing N523</idno>
+            <idno type="STC">ESTC R12405</idno>
+            <idno type="EEBO-CITATION">13127086</idno>
+            <idno type="OCLC">ocm 13127086</idno>
+            <idno type="VID">97857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97857)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The necessity of receiving the Holy Sacrament (that great test both of the Christian and Protestant religion) declared in a sermon, at a conference of the several ministers of the Deanery of Braughin, in the county of Hertford, appointed by the Right Reverend Father in God, Henry Lord Bishop of London, to be held at Ware, August 28, 1678 / by Robert Neville ...</title>
+                  <author>Neville, Robert, 1640 or 1-1694.</author>
+               </titleStmt>
+               <extent>31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.D. for Benj. Billingsly ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97857:1" rendition="simple:additions"/>
+            <p>THE NECESSITY OF RECEIVING THE Holy Sacrament;</p>
+            <p>(That great Teſt both of the <hi>Chriſtian</hi> and <hi>Proteſtant</hi> Religion)</p>
+            <p>Declared in a SERMON, at a CONFERENCE of the ſeveral Miniſters of the Deanery of <hi>Braughin</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Hertford,</hi> appointed by the Right Reverend Father in God, HENRY Lord Biſhop of <hi>London,</hi> to be held at <hi>Ware, Auguſt</hi> 28. 1678.</p>
+            <p>By ROBERT NEVILLE, B. D. Rector of <hi>Anſty.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. D.</hi> for <hi>Benj. Billingsly,</hi> at the Printing-Preſs in <hi>Cornhil</hi> near the Royal Exchange, 1679.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:97857:2"/>
+            <p>LICENSED.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>May</hi> 20. 1679.</date>
+               </dateline>
+               <signed>
+                  <hi>W.</hi> JANE.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97857:2"/>
+            <head>To the Worſhipfull, My much honoured Kinſman, James Wilymot, <abbr>Eſq</abbr> OF <hi>Chelſull</hi> in the County of <hi>Hertford.</hi>
+            </head>
+            <opener>
+               <salute>Honoured SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am ſo big with the Reſentments of your multi<g ref="char:EOLhyphen"/>plied and repeated Favours, that I am in pain till I am delivered of them in Public Ac<g ref="char:EOLhyphen"/>knowledgments; and have therefore choſe rather to expoſe my own weakneſs to the World (by making this Diſcourſe Publick) than be ungrateful to you; deſigning not ſo much the Publication of my Sermon, as my Gratitude: when (at the Command of our Right Reve<g ref="char:EOLhyphen"/>rend and Noble Dioceſan) I preached this Sermon, you were pleaſed to do me the honour to ride ſome miles to be an Auditor of it. What was then preſented to your Ear, I now place be<g ref="char:EOLhyphen"/>fore your Eye; not that I flatter my ſelf to ſerve the ends of my Reputation by it: for I am too well aſſured that thoſe Diſcourſes, which (in the hearing) went down with a tolerable
+<pb facs="tcp:97857:3"/>reliſh, are often found flat and inſipid in the reading, eſpe<g ref="char:EOLhyphen"/>cially when they are leiſurely and critically conſidered by Per<g ref="char:EOLhyphen"/>ſons of Judgment and Underſtanding. I have read of a young Gentleman of <hi>Athens,</hi> who being to plead for his Life, hired an Oratur to make him a Defenſive Oration to be pro<g ref="char:EOLhyphen"/>nounced before the Judges, which (at the firſt reading) was very grateful and pleaſing to the Young-man; but when by reading it often (that he might fix it in his memory, and ſpeak it with the better grace) he began to nauſeate, and grow weary of it; the Orator bid him conſider that the Judges and the People were to hear it but once, and then it was probable they might (at the firſt inſtant) hear it with as much delight and ſatisfaction, as he himſelf had done. This Story hath often repreſented to my mind the Fate of my Sermon, which is now ſtript of the Advantages it had in the Delivery; but however I can diſpenſe with my own Credit, and give my ſelf ſufficient ſatisfaction in that particular; becauſe I have ſent it into the World upon no other Errand, than to put me into a capacity of making a ſolemn and publick profeſsion that I am,</p>
+            <closer>
+               <signed>Honoured Sir, Your much obliged Kinſman, faithful and humble Servant, <hi>Robert Neville.</hi>
+               </signed>
+               <dateline>
+                  <hi>Anſty,</hi>
+                  <date>May <hi>15. 1679.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:97857:3"/>
+            <head>A SERMON PREACHED At a CONFERENCE at <hi>Ware, August</hi> 28. 1678.</head>
+            <epigraph>
+               <q>
+                  <bibl>LUKE 22. latter part of the 19 verſe.</bibl>
+                  <p>—<hi>This Do in Remembrance of Me.</hi>
+                  </p>
+                  <p>The whole verſe runs thus: <hi>And he took Bread, and gave thanks, and brake it, and gave unto them, ſaying, This is my Body, which is given for you; This do in Re<g ref="char:EOLhyphen"/>membrance of Me.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THE Holy Sacrament was in ſuch great eſteem and veneration in former Ages, that in <hi>Can.</hi> 21 of the Council of <hi>Illiberis,</hi> the keeping Men from it was thought an heavy Puniſhment, as appears by theſe words of the Canon,<note n="(a)" place="margin">Quod ſi quis per tres Dies Domini<g ref="char:EOLhyphen"/>cos ad Eccle<g ref="char:EOLhyphen"/>ſiam non ac<g ref="char:EOLhyphen"/>ceſſerit, &amp;c.</note> 
+               <hi>That if any abſented himſelf from the Church for three Sundays, he was
+<pb n="6" facs="tcp:97857:4"/>to be kept as long from the Holy Sacrament, that he might thereby ſeem puniſh'd and corrected for it.</hi> And it was decreed by the Council at <hi>Aken,</hi> in the Year 836, <hi>That the Sacrament ſhould be adminiſtred every Lord's day, leſt they who ſtand off from the Sacrament of their Redemption, ſhould be kept alſo at as great a Diſtance from Redemption it ſelf.</hi> And St. <hi>Baſil</hi> (in his 289 Epiſtle <hi>ad Caeſaream Patritiam</hi>) commends an every-day Communion as<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> good and profitable. A ſenſe whereof cauſed St. <hi>Cyril</hi> of <hi>Jeruſalem</hi> to invite Gueſts to this Feaſt in theſe words,<note n="(c)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Eat the Bread, that renews your Nature; drink the Wine, that is the Smile and Delight of Immortality.</hi> And St. <hi>Cyril</hi> of <hi>Alexandria</hi> tells us,<note n="(d)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>That to drink of the Sacramental Wine, is to drink of the Blood of Jeſus, to be partaker's of the Lord's Incorruptibility.</hi> And Holy <hi>Ignatius</hi> (in his Epiſtle to the <hi>Epheſians</hi>) calls the Sacra<g ref="char:EOLhyphen"/>mental Bread<note n="(e)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>The Medicine of Immortality, An Antidote againſt Death, A Purge that expels all evil.</hi> And the Fa<g ref="char:EOLhyphen"/>thers of the <hi>Nicene</hi> Council ſtyle the two Elements of the Sacrament,<note n="(f)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>the Symbols of our Reſurrection.</hi> And at this rate did ſeveral of the Antient Fathers ſpeak of it And I could heartily wiſh that the generality of Men had the ſame opinion of the Sacrament in this, as they had in former Ages; and that they would not exerciſe the power of the Keys againſt, and excommunicate themſelves, by their wilful Ab<g ref="char:EOLhyphen"/>ſence, from this Holy Feaſt. And ſince the Heathens had their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, their Feaſts in memory of
+<pb n="7" facs="tcp:97857:4"/>their Heroes, <hi>Aeacus</hi> and <hi>Ajax;</hi> and the Iſraelites their Paſsover (a Type of this our Feaſt) in memory of their Deliverance in <hi>Egypt;</hi> let us Chriſtians celebrate this Memorial Feaſt, which our Saviour did inſtitute in theſe words, <hi>This Do in remembrance of Me.</hi>
+            </p>
+            <p>Before I contrive the words into a Propoſition, I ſhall firſt reſolve this Queſtion; How Chriſt could, at the eating the laſt Supper with his Diſciples, with whom he was preſent, bid them Do this in remem<g ref="char:EOLhyphen"/>brance of him? how could they be ſaid to do that in Remembrance of his Death, which was then future, and to come? For if we do an Action in remem<g ref="char:EOLhyphen"/>brance of any thing, it muſt be of a thing that is paſt; or, if in remembrance of any Perſon, it muſt be ei<g ref="char:EOLhyphen"/>ther of a Perſon abſent from us, or of one departed this life.</p>
+            <p>To which I anſwer, That it follows only from theſe words, that Chriſt inſtituted and appointed a Sacrament, or Figurative, myſterious Repreſentation of a thing; which, in the whole uſe of it, was vari<g ref="char:EOLhyphen"/>abie, either to this day, to morrow, or any other day; and therefore never to be naturally verified, but on the Croſs, by a Proper and Natural Preſence; be<g ref="char:EOLhyphen"/>cauſe then it was ſo, and never elſe: In Remem<g ref="char:EOLhyphen"/>brance of which his being and ſuffering on the Croſs, we do this Holy Action, We do this in Remem<g ref="char:EOLhyphen"/>brance of Him.</p>
+            <p>The importance of which words may be compri<g ref="char:EOLhyphen"/>zed
+<pb n="8" facs="tcp:97857:5"/>in this Propoſition: That this Holy Action of receiving the <hi>Sacrament,</hi> in Remembrance) of Chriſt's Death and Paſſion, is a Duty incumbent upon every Chriſtian; every Chriſtian is bound to Do this in remembrance of him; and that for theſe following Reaſons:</p>
+            <p n="1">I. Becauſe Chriſt, who did inſtitute and appoint it, requires it of us; whoſe Command is of that ex<g ref="char:EOLhyphen"/>tent and latitude, as to comprehend all Chriſtians. 'Tis true indeed, that the Apoſtles only were preſent at Chriſt's firſt Celebration, and ſo the Command was directed to them: But how? not to the Apo<g ref="char:EOLhyphen"/>ſtles only as Apoſtles, but alſo as Communicants, as repreſenting the People; or elſe to the Apoſtles, as Diſpenſers; and to the People, as Receivers: For, if the Officers and Miniſters of the Church are bound to give it, all Chriſtians (no doubt) are bound to re<g ref="char:EOLhyphen"/>ceive it: and that they are obliged ſo to do, St. <hi>Paul</hi> hath fully and plainly declared to us; telling us in 1 <hi>Cor.</hi> 11.24. that when our Lord had given thanks, he brake the Bread, and ſaid, <hi>Take, eat, this is my Bo<g ref="char:EOLhyphen"/>dy, which is broken for you; Do this in Remembrance of me.</hi> Here this Command <hi>[Do this]</hi> immediately refers to theſe words, <hi>[Take, eat]</hi> which the verſe of my Text hath not; and therefore it muſt there refer only to taking Bread, giving Thanks, breaking it, and giving it to them; in which the Apoſtles and their Succeſ<g ref="char:EOLhyphen"/>ſors, were more immediately concerned; and none
+<pb n="9" facs="tcp:97857:5"/>can do this, <hi>i. e.</hi> take Bread, give Thanks, break it, and give it, but they; but in the other actions of ta<g ref="char:EOLhyphen"/>king, and eating, all Chriſtians are concerned.</p>
+            <p>The Receiving the Sacrament is not a thing Arbi<g ref="char:EOLhyphen"/>trary or Indifferent, to be done, or not done, at our pleaſure, becauſe it is under the Obligation of a Poſi<g ref="char:EOLhyphen"/>tive Command, which our Saviour hath given us in theſe words, <hi>This Do in remembrance of me;</hi> that is, Do this in remembrance that I put a cloud of Fleſh upon my bright and reſplendent Glory; In remembrance that I, who am the Light of the World, ſuffered my ſelf to be put into the dark Lanthorn of an Human Body; In remembrance of my bitter Pains and Sufferings on the Croſs; In remembrance of the ſtretching out of my Arms on the Tree of Shame, to receive and imbrace You; In remembrance of the opening of my Side, to make an avenue and paſſage for You to my Heart; In remembrance of my pou<g ref="char:EOLhyphen"/>ring out Water to waſh You, and Blood to redeem You.</p>
+            <p>Memorials of Dying-Men are of great account with all Men, being placed among their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, their moſt valued and eſteemed Treaſures: And we uſually ſay, That the words of a Dying-Man make the ſtrongeſt and deepeſt impreſſions in the minds of the Living: Be pleaſed therefore to bribe your Fan<g ref="char:EOLhyphen"/>cy, to ſuppoſe One, who had always been a loving and indulgent Husband, now lying upon his Death<g ref="char:EOLhyphen"/>bed,
+<pb n="10" facs="tcp:97857:6"/>and the very moment before his Soul is divor<g ref="char:EOLhyphen"/>ced from his Body, and he from his Wife by Death, making this his laſt and dying requeſt to her; <q>I per<g ref="char:EOLhyphen"/>ceive the laſt Sand of my Glaſs is now running, and my time of Departure is near at hand, let me therefore beg this laſt favour of thee, and deſire thee to keep my Picture by thee when I am dead and gone; let me deſire thee to do this in remem<g ref="char:EOLhyphen"/>brance of me:</q> Undoubtedly his Wife, if ſhe had but the leaſt ſpark of kindneſs for him, would keep his Picture by her, as a moſt valuable Treaſure; and when ever ſhe beholds it, pay him, whom it repre<g ref="char:EOLhyphen"/>ſents, the juſt Tribute of a Tear. The Church is Chriſt's Spouſe, and the Sacrament is the Picture of Chriſt's Death drawn to the Life; and if Chriſt, a little before his Death, deſires, nay more, commands his Spouſe, the Church, for whom he was about to die, and ſhed his moſt precious Blood, to comme<g ref="char:EOLhyphen"/>morate his Death after his Suffering and Crucifixion; and break Bread, and drink Wine, in remembrance that his Body was broken, and his Blood poured out; call to mind his bloody Paſſion by that holy Action; certainly if ſhe hath any bowels of Compaſſion in her, ſhe cannot deny his ſo juſt and reaſonable requeſt; ſhe cannot diſobey ſo obliging a Command.</p>
+            <p>If this Sacrament could have well been ſpared, and Men could have kept the Law of the Inward-Man without it, our Saviour, who came to beat
+<pb n="11" facs="tcp:97857:6"/>down all the Rites and Ceremonies of the Old Law, would never have raiſed up this under the Goſpel; but he knew it neceſſary, and therefore left it upon Record, as binding as a Law; 1 Cor. 11.25. <hi>This do ye, as often as you drink it, in remembrance of me.</hi> As <hi>oft as ye do it,</hi> implies a doing it often; and does not leave it at large to our will and pleaſure, to be taken up at the diſcretion of every private perſon; but ſuppoſeth that it muſt be done frequently, as fre<g ref="char:EOLhyphen"/>quently at leaſt as that Church, whereof we are Mem<g ref="char:EOLhyphen"/>bers, requires it of us.</p>
+            <p>Had our Saviour impoſed upon us a heavy Yoke of Judaical Rites, and laborious and expenſive Cere<g ref="char:EOLhyphen"/>monies, and crowded them in ſo thick and faſt upon us, as to employ and take up all our time, and ex<g ref="char:EOLhyphen"/>hauſt our ſtrength, we had had ſome tolerable Plea for our diſobedience; But when he hath freed us from the burdenſom impoſition of Judaical Obſervances, and (except that of Baptiſm) hath recommended but one innocent, cheap, and eaſie Rite to our obſervati<g ref="char:EOLhyphen"/>on; We are Monſters of Ingratitude if we take not and moſt chearful Obedience to this his peculiar Command; A Command in ſo peculiar a manner His, as no other is but that of Baptiſm. For his other Commands are but inforcements of thoſe Precepts, that are either contained in the Old Teſtament, or derived to us from Principles of Nature; but this
+<pb n="12" facs="tcp:97857:7"/>is his Peculiar, his own proper Commandment: and our Receiving the Sacrament in obedience to it, is the proper Characteriſtical mark of a Chriſtian, the very Teſt of our Chriſtianity: for Chriſt is concernd in no piece of Worſhip ſo much as this; This is more properly Chriſtian Worſhip than any other Act of Religion. Shall we not then obſerve this Mandate, obey this Command, and enjoy this Privilege pro<g ref="char:EOLhyphen"/>perly belonging to his Diſciples? This, this it was that cauſed the <hi>Chriſtians</hi> of old, when for their Sins they were debarr'd and excluded, to lament their condition in large ſhowers or Tears, and ſadly be<g ref="char:EOLhyphen"/>wail their baniſhment from the Lord's Table: This was eſteemed the higheſt Honour the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> could receive, when (after long attendance, and ſtrict examination) they were permitted to commence, and take the Degree of <hi>Fideles,</hi> and admitted into the So<g ref="char:EOLhyphen"/>ciety of Communicants, into the Fellowſhip and Communion of Saints</p>
+            <p n="2">2. This Holy Action of receiving the Sacrament in Remembrance of <hi>Christ</hi>'s Death and Paſſion, is a Duty incumbent upon every <hi>Chriſtian,</hi> becauſe this was the practice of the moſt Apoſtolical and Primi<g ref="char:EOLhyphen"/>tive Times, which is a good Comment upon <hi>Chriſt</hi>'s Intentions, and a clear diſcovery of the Obligatory Power of this Command.</p>
+            <p>They who were the immediate Auditors of <hi>Christ</hi> and his Apoſtles, had certainly the beſt Notion of the
+<pb n="13" facs="tcp:97857:7"/>import of this Command; and the Notion they had of it, made them as conſtantly do this, as they aſ<g ref="char:EOLhyphen"/>ſembled together either to eat, drink, or confer to<g ref="char:EOLhyphen"/>gether in love and friendſhip: And the 46th verſe of the 2d of the <hi>Acts</hi> ſeems to intimate to us that the Church of <hi>Jeruſalem</hi> receivd the Sacrament every day, and that <hi>they continued daily with one accord in the Temple, and breaking Bread at home, did eat their meat with gladneſs and ſingleneſs of heart;</hi> that is, after they had daily per<g ref="char:EOLhyphen"/>formed their common Devotions with the <hi>Jews</hi> in the Temple, they (becauſe the <hi>Jews</hi> would not then permit them to do it in the Temple) went to their own Houſes, to tender a more peculiar Service to <hi>Chriſt,</hi> by <hi>doing this in remembrance of him.</hi> But the principal time for this Holy Exerciſe ſeems to have been on the Lord's Day: for we reade, <hi>Acts</hi> 20.7. that the Diſciples were aſſembled on the firſt day of the week to break Bread. And as in the Apoſtolical, ſo in the next ſucceeding Times, they often met to<g ref="char:EOLhyphen"/>gether to do this; and while the Spirit of <hi>Chriſtianity</hi> was yet warm and vigorous, it is more than probable they did communicate every day, or as often as they came together to the Publick Worſhip; inſomuch that the <hi>Canons</hi>
+               <note n="(g)" place="margin">Canon 9<g ref="char:punc">▪</g>
+               </note> 
+               <hi>Apoſtolical,</hi> and the<note n="(h)" place="margin">Canon 2.</note> 
+               <hi>Synod</hi> of <hi>A<g ref="char:EOLhyphen"/>tioch</hi> threatned thoſe perſons with Excommunication, who reſorted to the Public Aſſemblies to hear the Scriptures, and departed from them without this Spi<g ref="char:EOLhyphen"/>ritual Food. This cuſtom of communicating every
+<pb n="14" facs="tcp:97857:8"/>day was of no ſhort continuance in the Church; and ſome Churches, and particularly the Weſtern did retain it longer than others. And St. <hi>Cyprian</hi> aſſures us that it was practis'd in his time, ſaying,<note n="(i)" place="margin">Euchariſti<g ref="char:EOLhyphen"/>am quotidiè ad cibum ſalutis accipimus. <hi>Cypr.</hi> de Ora<g ref="char:EOLhyphen"/>tione Domini<g ref="char:EOLhyphen"/>câ. p. 268.</note> 
+               <hi>We receive the Euchariſt every day, as the food our Salvation.</hi> The like St. <hi>Ambroſe</hi> reports of <hi>Millain,</hi> where he was Biſhop. And St. <hi>Hierom</hi> affirms, that this cuſtom was in uſe in his time at <hi>Rome.</hi> And St. <hi>Auguſtin</hi> intimates, that in the Age in which he lived it was not wholly diſuſed and laid aſide. In the Ea<g ref="char:EOLhyphen"/>ſtern Churches this cuſtom diſappeared ſooner than in the Weſtern, though more or leſs, according to the ebbing or flowing of their Zeal. And St. <hi>Baſil</hi>
+               <note n="(k)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Baſil <hi>in 289 Epiſt. ad</hi> Caeſaream Pa<g ref="char:EOLhyphen"/>tritiam</note> poſitively affirms, that in his time they did commu<g ref="char:EOLhyphen"/>nicate four times a week, namely, on the Lord's day, Wedneſday, Friday, and Saturday, and upon other days,<note n="(l)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Baſil.</hi> ibid.</note> if the memory of any Martyr were ce<g ref="char:EOLhyphen"/>lebrated upon them. Afterwards, as Religion began to be in her Wane and Decreaſe, this Sacrament was more and more diſcontinued, and from a daily was firſt changed into a weekly, and then into a month<g ref="char:EOLhyphen"/>ly Service, and afterward performed but thrice a Year, at <hi>Chriſtmaſs, Eaſter,</hi> and upon <hi>Whitſunday;</hi> and even at theſe three great Feſtivals it is now by many lukewarm <hi>Chriſtians</hi> neglected and diſregarded: for (to ſpeak the truth) we have much degenerated from the Devotion of the <hi>Primitive Chriſtians;</hi> and are taught of late to idolize Preaching, and value our
+<pb n="15" facs="tcp:97857:8"/>ſelve from our much Hearing; being like that Peo<g ref="char:EOLhyphen"/>ple called <hi>Corimandi,</hi> whoſe Ear (as Hiſtorians tell us) covered their whole Body. The Epidemical Diſeaſe of this Age, being the Rickets of Religion; or the having great Heads, Heads ſwell'd, and big with Knowledg (falſely ſo called) but their Legs weak and impotent, not able to walk in the ways of God's Commandments. Prayer, and the Sacrament of the Lord's Supper, muſt ſtrike ſail to Sermons; &amp; becauſe Men are too feeble in Spirituals to prepare them<g ref="char:EOLhyphen"/>ſelves for it, they are unwilling to come to this holy Feaſt; and perſwade themſelves that Superſtition did eat out the heart of true Religion in the Primitive times, and that then Men did come ſo frequently to eat with Chriſt at his Table, only in a Comple<g ref="char:EOLhyphen"/>ment, and Complaiſance, and flatter and wheadle their Saviour with a ſuperfluous and needleſs Devo<g ref="char:EOLhyphen"/>tion, and therefore they will not do this once a year, nay ſome of them ſcarce once in all their lives. But let me adviſe ſuch, not to dare to neglect Chriſt's gracious Invitation, nor diſobey his Command, of <hi>doing this in remembrance of him:</hi> for not only Acts, but Omiſſions are evil. It is a Sin to contemn the Sa<g ref="char:EOLhyphen"/>crament, and a Sin not to receive it when we may: the one leads to the other: Neglect and Indifferency (as we have ſeen by woful experience) terminate at laſt in open Prophaneneſs. If we had a true eſteem of the Cup of Bleſſings, we ſhould thirſt more after
+<pb n="16" facs="tcp:97857:9"/>it: but the truth is, our thoughts are ſeldom or never imployed upon the conſideration of thoſe many Be<g ref="char:EOLhyphen"/>nefits and Advantages we receive by it. And this brings me to the third Reaſon, why this holy Action of Receiving the Sacrament in Remembrance of Chriſt's Death and Paſſion, is a Duty incumbent up<g ref="char:EOLhyphen"/>on every Chriſtian. And that is,</p>
+            <p n="3">III. Becauſe 'tis fraught with many Benefits and Advantages; this is not an empty barren Ceremony, or an unprofitable Rite, it hath a large train of Bleſſings attending on it. And</p>
+            <p n="1">1. It makes us participate of <hi>Chriſt,</hi> and his Grace and Spirit. The external Act indeed only declares <hi>Christ</hi>'s Death in Rite and Ceremony; but the wor<g ref="char:EOLhyphen"/>thy communicating of it, makes us feed upon <hi>Christ,</hi> and unites him to our Souls, and makes us to become one Spirit, according to thoſe words of St. <hi>Ambroſe,</hi>
+               <note n="(m)" place="margin">In ſimili<g ref="char:EOLhyphen"/>tudimem qui<g ref="char:EOLhyphen"/>dem accipis Sacramentum, ſed verae natu<g ref="char:EOLhyphen"/>rae gratiam virtutemque conſequêris. <hi>Ambroſ.</hi> de Sacramento.</note> 
+               <hi>Thou receiveſt the Sacrament as the ſimilitude of Chriſt's Body, but thou ſhalt withal obtain the Grace and Vertue of the true Nature.</hi> The Elements of Bread and Wine in the Sacrament are not (as ſome tell us) only Symbols of mutual Charity, Allegorical Admonitions of Chri<g ref="char:EOLhyphen"/>ſtian Mortification, and Rites inſtituted, only to ſtir up Faith, by way of Object and Repreſentation; this were to imbrace a meer Cloud inſtead of the true <hi>Juno,</hi> the true Deity: Thoſe Names, and Appellati<g ref="char:EOLhyphen"/>ons, which the Scripture gives them, ſpeak them to be more than ſo; ſuch as are the Body and Blood of
+<pb n="17" facs="tcp:97857:9"/>the Lord, the communication of his Body, and the communication of his Blood; all which intimate no leſs to us than a real change in the Elements, and that <hi>Chriſt</hi> is really preſent there; and though we muſt never hope to have our ſight ſo acute, as the <hi>Roma<g ref="char:EOLhyphen"/>niſts</hi> tell us theirs is, when, through that ſtrange glaſs of <hi>Tranſubſtantiation,</hi> they pretend to ſee and diſcern the very Fleſh and Blood of <hi>Christ;</hi> yet we muſt not entertain ſuch mean thoughts of them, as to think them only bare ſigns of what <hi>Chriſt</hi> did for us; but firmly believe that they exhibit <hi>Christ</hi> himſelf to all worthy Communicants.</p>
+            <p n="2">2. A ſecond Benefit or Advantage of the Sacra<g ref="char:EOLhyphen"/>ment is, That it quickens, ſtrengthens, and encreaſes our Faith: All Habits are encreaſed by often re<g ref="char:EOLhyphen"/>peated Acts: Now this Sacrament requires frequent and great Exerciſes of our Faith, by fixing it upon its proper Object, a Crucified Saviour; and it be<g ref="char:EOLhyphen"/>ing (as <hi>St. Cyril</hi> of <hi>Jeruſalem</hi> tell us)<note n="(n)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Catech. 2.</note> A Repre<g ref="char:EOLhyphen"/>ſentation of Chriſt's Sufferings, makes us ſeal to that Truth, which he hath ſigned and ſealed with his Blood, and make a publick profeſſion of our Faith in the virtue and merits of it: For the Sa<g ref="char:EOLhyphen"/>craments (as one ſaith well) are nothing elſe but <hi>Proteſtationes Fidei,</hi> the publick Proteſtations of our Faith. They who come to the Lord's Table, by their very coming do publickly profeſs, that they believe
+<pb n="18" facs="tcp:97857:10"/>not only every Article of their Faith, but alſo every part of this Divine Promiſe and Inſtitution, by which Chriſt will renew, ſtrengthen and eſtabliſh his Covenant to every worthy Receiver. Nor is our coming to the Sacrament our Proteſtation only of our Faith, but alſo of our Repentance, which,</p>
+            <p n="3">3. Is hugely advantaged and promoted by the Sacrament: for we cannot certainly but repent with all ſpeed of our Sins, when we conſider that they were the Spears that pierced our Saviour's ſide, the Nails that faſtned him to the Croſs; and that they laid ſuch loads of Wrath upon the ſhoulders of Om<g ref="char:EOLhyphen"/>nipotency it ſelf, as made him complain and ſweat, groan and die: it being impoſſible for any Man ever to have ſuch, a ſenſe of, and ſorrow for Sin, as when he is awakened by the ſigns and images of Chriſt's Sufferings, and when he ſees it writ and decypher'd in Characters of Blood: ſo that our re<g ref="char:EOLhyphen"/>ceiving the Sacrament, which commemorates <hi>Chriſt'</hi>s Death and Sufferings, is a Proteſtation of our re<g ref="char:EOLhyphen"/>penting of thoſe Sins of ours, which moſt Jewiſhly crucifi'd the Lord of Glory.</p>
+            <p>The <hi>Canoniſt</hi> will tell us, <hi>Sacramentum &amp; mortis Ar<g ref="char:EOLhyphen"/>ticulus aequiparantur,</hi> that we are conſidered at the Sa<g ref="char:EOLhyphen"/>crament, as on our Death-bed: Now on our Death-bed we repent of our Sins, then we lay down our Ma<g ref="char:EOLhyphen"/>lice, then we nauſeat our Luſt, then we go out of and
+<pb n="19" facs="tcp:97857:10"/>renounce the World, then we quarrel with <hi>Mammon;</hi> then we are meek, humble, and tractable; then we are commonly what we ſhould be in Health: Now if we conſider our ſelves at the Holy Table, as on our Death-bed, we ſhall undoubtedly repent of our Sins, and drown them in the Blood, and nail them to the Croſs of our Saviour: and if ſo, then this Sacrament may very well (notwithſtanding what ſome extra<g ref="char:EOLhyphen"/>vagant Fancies may ſuggeſt to the contrary) de<g ref="char:EOLhyphen"/>ſerve the name of a <hi>Converting Ordinance;</hi> that is, ſuch an Ordinance as God makes uſe of to turn Men from Sin to Holineſs; towards which nothing can contribute more, than that ſolemn Obligation which all Worthy Communicants lay upon themſelves at the Lord's Table, to forſake their Sins, and lead ho<g ref="char:EOLhyphen"/>ly Lives: there being nothing imaginable that can ſeen a more probable and proper Inſtrument, to convert Men from a wicked to an holy Life, than the ſacred Remembrance that Chriſt's Death was de<g ref="char:EOLhyphen"/>ſigned to be the Death of Sin, and the Life of Ho<g ref="char:EOLhyphen"/>lineſs.</p>
+            <p n="4">4. A fourth Benefit or Advantage of the Sacra<g ref="char:EOLhyphen"/>ment is, That it enlarges and enflames our Love, our Charity: whether it be,</p>
+            <list>
+               <item>Firſt, Divine Love, or the Love of God: Or,</item>
+               <item>Secondly, The Love of our Neighbour.</item>
+            </list>
+            <pb n="20" facs="tcp:97857:11"/>
+            <p>Firſt, It enlarges and enflames our Love of God: For, by the commemoration of <hi>Chriſt</hi>s Death in the Sacrament; we imprint in our Memories that He<g ref="char:EOLhyphen"/>roic Act, that never yet did enoble the ſtory of any Perſon, namely, Chriſt's laying down his Life for his Enemies; the Lamb of God his dying for Wolves, for thoſe that would have devoured him: So that if the Poet's Fancy of <hi>Deucalion</hi> and <hi>Pyrrha</hi> were ve<g ref="char:EOLhyphen"/>rified in us, and we, like the Men and Women in their days, were made or Stone, yet theſe Marbles could not but weep, theſe cold ſtones could not but be warm'd with the Fire of Divine Love, ſtruck out of them by the conſideration of <hi>Christ</hi>s great Love to us, expreſt by that Gift he gave to obtain our Pardon, namely, his Life: This was ſuch a tran<g ref="char:EOLhyphen"/>ſcendent Act of Love as no <hi>Romance</hi> of Friendſhip did ever yet fancy or ſuppoſe. We may have heard of two Companions that would die for each other, and that never quarrel'd in their Lives but for this, who ſhould ſuffer firſt, to ſave the other, and ſtrove only for Death and Execution: But for a Perſon in the Trinity to leave his Heaven, to come down to us, to dwell with Agonies, that he might free us from Torments: This was an Act of Love fit for Ecſta<g ref="char:EOLhyphen"/>ſies of Apprehenſion! there were never ſuch wounds of Love as thoſe that tore his Heart; never ſuch meltings of Affection and Goodneſs, as diſſolved
+<pb n="21" facs="tcp:97857:11"/>Chriſt into ſweats of Blood. Let us look on our Sa<g ref="char:EOLhyphen"/>viour in the Garden, and on Mount <hi>Calvari,</hi> and we ſhall find him there in as great Agonies of Affection as of Torment, and hanging down his head upon the Croſs, with Languiſhments of Kindneſs, more than Weakneſs. Now ſuch Meditations of Chriſt's Love to us as theſe, does receiving the Sacrament ſuggeſt to us; and if (as undoubtedly it is) Love is the beſt Loadſtone to attract Love; the doing this Holy Action cannot but kindle in us that Holy Paſ<g ref="char:EOLhyphen"/>ſion of Divine Love: Nor will it ſtop here, but pro<g ref="char:EOLhyphen"/>ceed:</p>
+            <p>Secondly, To nouriſh and encreaſe the Love of our Neighbour: For it being the Commemoration of his Paſſion, who was the perfect Mirror of Love, it cannot but kindle and enflame our Loves to one another, which is an expreſſion of our Love to God: For, 1 <hi>John</hi> 4.12. <hi>If we love one another, God dwelleth in us, and his Love is perfected in us.</hi> Chriſt died for his Enemies, and ſhall not the Commemoration thereof teach us to love ours? When the King of <hi>Moab</hi> was preſſed hard by the <hi>Iſraelites</hi> and <hi>Edomites,</hi> he took his own Son, and offered him as an Holocauſt upon the Wall, whereupon they preſently raiſed the Siege: So God hath offered up his Son, as an Holo<g ref="char:EOLhyphen"/>cauſt, as a Sacrifice for us; and can we chooſe then, when we commemorate that his Oblation in the
+<pb n="22" facs="tcp:97857:12"/>Sacrament, but raiſe the Siege, and ceaſe from quarrelling and fighting with our Enemies, and do them all the good Offices of Love and Kindneſs. <hi>Epictetus</hi> hath ingeniouſly obſerved, That<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> every thing in the World hath two handles; one turned towards us, which we may eaſily take; the other turned from us, harder to be laid hold of: the firſt makes all things eaſy, the ſecond does not. The in<g ref="char:EOLhyphen"/>ſtance he brings fits my preſent purpoſe; <q>Be it (ſays he) that thy Brother hath offended thee; there are two handles, one of the offence, the o<g ref="char:EOLhyphen"/>ther of thy Brother: if thou take hold of that of the Offence, it will be too hot for thee; but if of that of thy Brother, it will make all his behaviour towards thee ſo tolerable, as to continue him ſtill the Object of thy Love.</q> There is no part of out Brother's carriage towards us, but (if we examin it) we ſhall find ſome handle, ſome circumſtance, that may reconcile our Love to it; if we can find no other, that of our Saviour's dying for his moſt viru<g ref="char:EOLhyphen"/>lent, bitter, and malicious Enemies, will accom<g ref="char:EOLhyphen"/>pliſh and effect it. <q>For (ſays St. <hi>Chryſoſtom</hi>) didſt thou know that thy Brother intended particular Miſchief againſt thee, that he would even embrue his hand in thy Blood,<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> kiſs that very hand; for the Lord Chriſt did not refuſe to kiſs that very Mouth, that made the Bargain for his Blood:</q>
+               <pb n="23" facs="tcp:97857:12"/>The Effuſion whereof we commemorate by pouring out the Sacramental Wine. Now this Love of his required the beſt of our Love by way of Compenſa<g ref="char:EOLhyphen"/>tion; and he hath made our Brethren Letters of At<g ref="char:EOLhyphen"/>tourney to receive that Debt of our Love which is due to him.</p>
+            <p>And thus having muſter'd up all the Arguments, to enforce the Neceſſity of receiving the Sacrament, which the time allotted to this Diſcourſe would allow of: I ſhall now remove ſome of the principal Ob<g ref="char:EOLhyphen"/>jections, which are urged by ſome, to diſcourage both themſelves and others from this neceſſary and holy Duty.</p>
+            <p>The firſt Objection is, that of their own <hi>Unworthi<g ref="char:EOLhyphen"/>neſs,</hi> which (they ſay) frights them from this holy Feaſt.</p>
+            <p>To which let me return this Anſwer, that though they pretend Fear to be a Bridle in their Mouths, that hinders them from eating, yet I am apt to believe this but a bare pretence; becauſe they are not afraid of thoſe things, which (I am ſure) have more evil and danger in them, than the doing this holy Action can ever be ſuppoſed to have; for they are not afraid to break a poſitive Command of Chriſt's, which re<g ref="char:EOLhyphen"/>quires them to do this in remembrance of him .They
+<pb n="24" facs="tcp:97857:13"/>are not afraid to live in the known Sins of Schiſm, Faction, Covetouſneſs, Uncharitableneſs, Diſobe<g ref="char:EOLhyphen"/>dience to their Governours both in Church and State; and yet they are afraid to do a neceſſary Duty, which Chriſt himſelf requires of them. They make their Unworthineſs a Plea for their not coming, but who is culpable and blameable for it? Is it not to be charged upon themſelves alone? Is it not becauſe they are unwilling to take a Survey of their Conſci<g ref="char:EOLhyphen"/>ences, and examin themſelves? Is it not becauſe they are ſo in love with Sin, as to think it hath a bet<g ref="char:EOLhyphen"/>ter Guſto than this bleſſed Feaſt? O let not theſe ſad Wretches put ſuch Cheats upon themſelves, as to pretend, that the thoughts of their Unworthineſs fright them from it, of which if they were truly ſen<g ref="char:EOLhyphen"/>ſible, they would not remain ſo unworthy; but (as the Apoſtle adviſeth) 1 <hi>Cor.</hi> 11.28. <hi>First examin themſelves, and then eat of that Bread, and drink of that Cup.</hi> Let them not therefore ſpin ſuch fine Threads of Hypocriſy, as to deceive their own Eyes; for their Unworthineſs is no ſufficient reaſon to keep them from this Duty, unleſs they are reſolved to con<g ref="char:EOLhyphen"/>tinue in that ſtate without Repentance. The ſick Man is not unworthy of Phyſic, becauſe he is ſick, but becauſe he flings away his Phyſic, and defies all Remedies and Medicines that may reſtore him to Health; and if this be the ſtate of theſe Men in
+<pb n="25" facs="tcp:97857:13"/>Spirituals, they are then indeed unfit to come to the Holy Table: But if they are deſirous to purge a<g ref="char:EOLhyphen"/>way their ſins by repentance, and lead a new life for the future, they may, nay, they are obliged to participate of this Holy Feaſt; and are as worthy of it, as the Wounded Man is of Healing Balſam, or the Sick Man of Phyſick; that is, they want it; and Chriſt invites them to come, that they may re<g ref="char:EOLhyphen"/>ceive ſuch ſupplies as are ſuitable to their Wants and Neceſſities.</p>
+            <p>Secondly; A ſecond Objection againſt coming to the Sacrament, is this; That it is often ſeen, that Men break thoſe Reſolutions againſt Sin after the Sacrament, which they made in ſo ſolemn a manner before they received it; and than therefore they will not come to it, leſt by breaking thoſe Vows and Promiſes of a Reformation, which they made to God before receiving, they ſhould enflame their Reckoning, encreaſe their Sins, and thereby exaſperate God the more againſt them.</p>
+            <p>To which I anſwer; That though Men ſhould by chance break their reſolutions of amendment, after the Sacred Solemnity is over, yet let not that fright them from a ſecond Celebration of it, but induce them rather to frequent it the more; that they may
+<pb n="26" facs="tcp:97857:14"/>obtain that ſtrength by a frequent repetition of this Action, which could not be had from one ſingle Act; there being a greater Probability of their ſtanding firm, and not relapſing into Sin, if they receive often, than if they receive ſeldom or not at all; eſpecially if they conſider, that their not re<g ref="char:EOLhyphen"/>ceiving is it ſelf a Sin, a Sin of Omiſſion, a breach of a poſitive Command of Chriſt's, who requires their Preſence at his Holy Table; to which if they come prepared by Self-examination, and with a ſin<g ref="char:EOLhyphen"/>cere Reſolution of their Souls to lead a new Life, they will find their Graces ſtrengthned, their Faith quickned, their Hope encreaſed, their Charity en<g ref="char:EOLhyphen"/>flamed, and their whole Inward-Man repaired by it; and that the oftner they receive the Sacrament, the more fit they will be to receive; this Sacrament be<g ref="char:EOLhyphen"/>ing more ſuitable to the weak than the ſtrong, tho needful for both: and it is more than probable, that Mens weakneſs is the effect of their feeding ſo ſel<g ref="char:EOLhyphen"/>dom on it, and permitting thoſe Recruits and Rein<g ref="char:EOLhyphen"/>forcements they had received by it, decay and lan<g ref="char:EOLhyphen"/>guiſh, before they were renewed by a freſh repaſt. To which I may alſo ſuperadd, that by the ſame Argument by which Men diſcourage themſelves from the Sacrament, they may alſo fright them<g ref="char:EOLhyphen"/>ſelves from the duty of Repentance, without which there is no Salvation upon Goſpel terms; For when<g ref="char:EOLhyphen"/>ever
+<pb n="27" facs="tcp:97857:14"/>I repent, I muſt, after I have asked God pardon for my former Sins, promiſe and reſolve to ſerve him with better Obedience for the future, if I would obtain Pardon of him. And do we not find by woful experience, that we break thoſe Promiſes we make even in our moſt ſolemn Repentance, and conſequently incur God's Diſpleaſure by that breach of Promiſe? And what then, muſt we not repent, becauſe we ſometimes<g ref="char:punc">▪</g> fall back from our Repen<g ref="char:EOLhyphen"/>tance, and either forget, or break our Promiſes? Cer<g ref="char:EOLhyphen"/>tainly we ought rather to repent again of that our breach of Promiſe, to repent and be ſorry for the imperfections of our former Repentance: So that by the ſame Reaſon that we muſt not come to the Sacrament, becauſe we often break thoſe Vows and Promiſes of Amendment, that we make before we receive it, we muſt not alſo repent, becauſe we of<g ref="char:EOLhyphen"/>ten again return to thoſe Sins whereof we repented, and which we reſolved againſt at the time of our Repentance; which dangerous Opinion no Chriſti<g ref="char:EOLhyphen"/>an, who underſtands the purport of the ſecond Co<g ref="char:EOLhyphen"/>venant, will dare to eſpouſe.</p>
+            <p>Thirdly; A third Objection againſt the Sacra<g ref="char:EOLhyphen"/>ment is, That Men fear they want Knowledg, and underſtand not aright the nature of the <hi>Sacrament;</hi> which if they do not, this their groſs and ſtupid ig<g ref="char:EOLhyphen"/>norance
+<pb n="28" facs="tcp:97857:15"/>of a thing ſo eaſie, and withal ſo neceſſary to be underſtood, is, inexcuſable. A Subtilety in thorny Controverſie, or an Ability in the intricate Myſteries of Religion are no neceſſary Ingredients in a Worthy Communicant; even thoſe Heads that can neither toil about, not ſpin out an Argument, may be as richly arrayed in that Knowledg that is requiſite for a good Communicant, as <hi>Solomon</hi> in all his Glory. To qualify and fit Men for the <hi>Sa<g ref="char:EOLhyphen"/>crament,</hi> it is not required that they ſhould know the Motions of the Celeſtial Bodies, or the Influences of the <hi>Stars;</hi> if they do but feel any good Motions within themſelves, and how CHRIST, the bright Morning-Star<note n="*" place="margin">Rev. 22.16.</note>, (and that this Star deſcended from his bright Orb of Glory, and ſet in a Sea of Blood, to raiſe ſuch black Sinners as they are to Manſions of Eternal Glory: It is not expected from a Worthy Communicant that he ſhould dive into the depth of any new Myſtery, or ſtudy for any new Notion; All that is new he is to be in queſt of, is the New<note n="‖" place="margin">2 Cor. 5.17.</note> Creature. Every Child (that hath but learnt his Church Catechiſm) can tell that the <hi>Sacrament</hi> was ordained <hi>for the continual remembrance of the Sacrifice of the Death of Christ, and the Benefits we receive there<g ref="char:EOLhyphen"/>by;</hi> and that the Reception of this <hi>Sacrament</hi> is the ratifying and confirming our Covenant with God; and that it is required of thoſe who come to the
+<pb n="29" facs="tcp:97857:15"/>Lords Supper, <hi>to examin themſelves whether they repent them truly of their former Sins, ſtedfastly purpoſing to lead a new Life; have a lively Faith in Gods Mercy through Jeſus Chriſt, with a thankful remembrance of his Death, and be in Charity with all Men.</hi> He that knows but thus much, knows enough of the nature of the Sa<g ref="char:EOLhyphen"/>crament; and he that knows not this, (after ſo ma<g ref="char:EOLhyphen"/>ny Sermons and Catechiſings that have been made upon the <hi>Sacrament</hi>) for this his groſs and ſupine Ig<g ref="char:EOLhyphen"/>norance, may juſtly be reputed ſuch a Dunce in Chriſtianity, as ſcarcely to deſerve the Name of a <hi>Chriſtian.</hi> And therefore if any Perſon be ignorant in this matter, why does he not repair to thoſe, whoſe Office and Buſineſs it is to teach and inform him better? Why hath he not recourſe to thoſe,<note n="*" place="margin">Mat. 2.7.</note> whoſe Lips ſhould keep Knowledg? who (I am confident) would be glad of all opportunities to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſtruct thoſe who are ignorant in this or any other kind.</p>
+            <p>Fourthly. A fourth Objection againſt coming to the Sacrament, is a fear in Men, that when they have prepared themſelves for it as well as they can, they are not yet ſo well prepared as they ſhould be.</p>
+            <p>To which I anſwer, That if we may not come to God's Ordinances, till we are as well prepared as we ſhould be, why then are we not afraid to pray
+<pb n="30" facs="tcp:97857:16"/>to God? and why are we not afraid to hear h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Word? For when we hear and pray, we do the ſame thing that is perform'd at the Sacrament, the not in ſo ſolemn a manner: So that by the ſame Argument that ſome Men ſcare themſelves from the Sacrament, they may alſo fright themſelves from other holy Duties, ſuch as Praying, or Hear<g ref="char:EOLhyphen"/>ing the Word: For, as the Apoſtle ſaith, that <hi>he the eats and drinks unworthily;</hi> ſo it is true alſo, that he that prays or hears unworthily, prays and hears to himſelf <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Judgment, and temporal Puniſh<g ref="char:EOLhyphen"/>ments, and (if he repent not by the Admonition of thoſe Puniſhments) Eternal Damnation; and as he that is not the better for the Sacrament, is certain<g ref="char:EOLhyphen"/>ly the worſe for the Sacrament; So he that is not the better for a Sermon, is certainly the worſe for a Sermon; every Sermon he hears amiſs, ſhall riſe up in Judgment againſt him.</p>
+            <p>Let us then prepare our ſelves for the Sacrament as well as we can, and God will accept of it, though it be not ſo well as we ſhould; he will accept of our ſincere endeavours of Preparation: And if we will not chuſe to feed rather upon Doubts and Scruples, than upon the Bread of Life, we may aſſure our ſelves of a welcom to, and advantage by, this Holy Feaſt. Indeed if we come, like rude and unman<g ref="char:EOLhyphen"/>nerly Gueſts, once is too often; but if we purge
+<pb n="31" facs="tcp:97857:16"/>and cleanſe our Hearts, if the ſtomach of our Souls be clean, often we may come, but we cannot come too often; Chriſt's Blood is always full of virtue and efficacy, it will put out the Fire of immoderate Anger, cool the Heart-burnings of Malice and Envy, the <hi>Calentures</hi> of our Luſt, quench the raging Thirſt of Covetouſneſs: If we drink of this Cup as we ought, it will keep us from drinking too frequently and immoderately of any other. Chriſt is always a Fountain of Life to thoſe who deſire to taſte the Waters of Life, at which we may draw as often as we pleaſe, if our Pitcher be clean; and the oftner we draw, our Pitcher will be the cleaner: And that it may be ſo, God grant us ſuch a ſenſe of our Sa<g ref="char:EOLhyphen"/>viour's Sufferings, as may create in us a juſt deteſta<g ref="char:EOLhyphen"/>tion of our Sins, and quicken our endeavours in the ways of Repentance, and a holy Life, till we ob<g ref="char:EOLhyphen"/>tain thoſe Bleſſings, which by the effuſion of his Blood he hath purchaſed for us: to whom with the Father, and the holy Spirit, be all Honours, Glory and Praiſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:97857:17"/>
+            <head>Books ſold by <hi>Benjamin Billingſley</hi> at the Printin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Preſs in <hi>Cornhill.</hi>
+            </head>
+            <p>CHriſtian Religion's Appeal from the groundleſs Prejudices of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sceptick to the Bar of Common Reaſon. Wherein is prov<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <list>
+               <item>1. That the Apoſtles did not delude the World;</item>
+               <item>2. Nor were themſelves deluded.</item>
+               <item>3. Scripture Matters of Fact have the beſt Evidence.</item>
+               <item>4. The Divinity of Scripture is as demonſtrable, as the Being <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Deity. By <hi>John Smith,</hi> Rector of St. <hi>Maries</hi> in <hi>Colcheſter.</hi> Fol. Pr. 1.<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+            </list>
+            <p>A Sermon preached before the Right Honourable the Lord Ma<gap reason="illegible" resp="#UOM" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> and Court of Aldermen of the City of <hi>London,</hi> at <hi>Guild hall</hi> Cha<gap reason="illegible" resp="#UOM" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> 
+               <hi>Aug.</hi> 18. 1678. By <hi>Robert Neville,</hi> B. D. late Fellow of King's Col<gap reason="illegible" resp="#UOM" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> in <hi>Cambridg,</hi> and now Rector of <hi>Anſty</hi> in <hi>Hertfordſhire.</hi> 4. price 6 <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>Of Baptiſm and the Lord's Supper. Two ſhort Diſcourſes, o<gap reason="illegible" resp="#UOM" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing the Nature, Deſign, and Ends of thoſe two great Goſpel-O<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nances, and teaching the holy uſe and improvement of them. In <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Price 6 d.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
